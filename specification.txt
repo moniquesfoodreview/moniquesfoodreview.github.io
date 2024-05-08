@@ -1,0 +1,34 @@
+Ten HTML Tags:
+<h1>
+<h2>
+<h3>
+<h4>
+<p>
+<a>
+<q>
+<img>
+<div>
+<u>
+<i>
+<b>
+<br/>
+
+5 (or more!) CSS Properties:
+font-size
+font-family
+color
+line-height
+letter-spacing
+backround-color
+width
+margin
+padding
+border
+text-shadow
+display
+
+I used Javascript to make the titles of my various pages underline dynamically when the user
+first drags their cursor over them. I used bootstrap to make my page work better for different
+sized screens, and to create the accordion-style menu on my homepage.
+
+Works cited: I used W3 schools a lot for this project, and I uses their bootstrap demo styling as a template for the styling of my homepage. 
